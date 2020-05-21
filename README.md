@@ -1,3 +1,5 @@
+zoom: https://ucsd.zoom.us/s/797074102
+
 Videos here:
 
 https://drive.google.com/drive/folders/1xoagnZN0FSZUpAKCwraaFXHrfQvhGTDt?usp=sharing
